@@ -100,11 +100,8 @@ img {
   border-radius: 5px;
   text-align: center; 
 }
-.container {
-            align-text: center; 
-        }
 .cpimage {
-  width: 500px; /* Limit the size */
+  width: 700px; /* Limit the size */
   height: auto;
   margin-top: 10px;
   border: 1px solid #ddd;
