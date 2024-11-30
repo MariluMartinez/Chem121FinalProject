@@ -15,14 +15,14 @@ u {
 }
 button {
   padding: 10px 18px; /* Top-Bottom and Left-Right padding */
-  font-size: 16px; /* Increase font size */
+  font-size: 14px; /* Increase font size */
   border-radius: 12px;
   background-color: #e7e7e7; color: black;} /* Gray */
   color: white; /* White text */
   cursor: pointer; /* Pointer cursor on hover */
 }
 
-button:hover {
+button: hover {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 #project-title
