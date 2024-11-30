@@ -13,6 +13,18 @@ li {
 u {
   font-size: 18px;
 }
+button {
+  padding: 20px 40px; /* Top-Bottom and Left-Right padding */
+  font-size: 18px; /* Increase font size */
+  border: 2px solid #000; /* Optional, adds a border */
+  background-color: #4CAF50; /* Green background */
+  color: white; /* White text */
+  cursor: pointer; /* Pointer cursor on hover */
+}
+
+button:hover {
+  background-color: #45a049; /* Slightly darker green on hover */
+}
 #project-title
 {
   margin-bottom: 0px;
