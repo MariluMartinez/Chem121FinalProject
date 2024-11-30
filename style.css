@@ -4,7 +4,15 @@ html
   width: 100%;
   background-color: #e6e3e2;
 }
-
+p {
+  font-size: 18px;
+}
+li {
+  font-size: 18px;
+}
+u {
+  font-size: 18px;
+}
 #project-title
 {
   margin-bottom: 0px;
@@ -25,10 +33,6 @@ html
   text-align: center; 
 }
 
-body  
-{
-  font-family: bradley hand, cursive;
-}
 
 hr
 {
@@ -43,7 +47,6 @@ hr
 #Rosalinda
 {
   background-color: pink; 
-  font-family: bradley hand, cursive;
 }
 
 #hrrosa
