@@ -14,16 +14,16 @@ u {
   font-size: 18px;
 }
 button {
-  padding: 20px 40px; /* Top-Bottom and Left-Right padding */
-  font-size: 20px; /* Increase font size */
-  border: 2px solid #000; /* Optional, adds a border */
-  background-color: #4CAF50; /* Green background */
+  padding: 10px 24px; /* Top-Bottom and Left-Right padding */
+  font-size: 18px; /* Increase font size */
+  border-radius: 12px;
+  background-color: #e7e7e7; color: black;} /* Gray */
   color: white; /* White text */
   cursor: pointer; /* Pointer cursor on hover */
 }
 
 button:hover {
-  background-color: #45a049; /* Slightly darker green on hover */
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 #project-title
 {
