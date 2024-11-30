@@ -92,19 +92,3 @@ hr
   border-radius: 5px;
 }
 
-img {
-  width: 300px; /* Limit the size */
-  height: auto;
-  margin-top: 10px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  text-align: center; 
-}
-.cpimage {
-  width: 700px; /* Limit the size */
-  height: auto;
-  margin-top: 10px;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  text-align: center; 
-}
